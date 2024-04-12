@@ -1,0 +1,2 @@
+PORT = 8000
+MONGODB_URL = "mongodb+srv://flowingfrontend:flowing@cluster0.iefoang.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
